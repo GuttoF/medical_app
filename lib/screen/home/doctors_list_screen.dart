@@ -27,7 +27,7 @@ class _DoctorsListScreenState extends State<DoctorsListScreen> {
           ),
         ),
         title: Text(
-          "Doctors List",
+          "Doutores",
           style: TextStyle(
             color: TColor.primaryTextW,
             fontSize: 16,

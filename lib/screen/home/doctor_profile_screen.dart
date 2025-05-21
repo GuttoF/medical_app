@@ -28,7 +28,7 @@ class _DoctorProfileScreenState extends State<DoctorProfileScreen> {
           ),
         ),
         title: Text(
-          "Doctors Profile",
+          "Perfil do doutor",
           style: TextStyle(
             color: TColor.primaryTextW,
             fontSize: 16,
@@ -90,7 +90,7 @@ class _DoctorProfileScreenState extends State<DoctorProfileScreen> {
                       Padding(
                         padding: const EdgeInsets.symmetric(vertical: 8),
                         child: Text(
-                          "Cardiologist\nBAMS, MBBS, MD, DDLT. ",
+                          "Cardiologista\nBAMS, MBBS, MD, DDLT. ",
                           textAlign: TextAlign.center,
                           style: TextStyle(
                             color: TColor.secondaryText,
@@ -152,7 +152,7 @@ class _DoctorProfileScreenState extends State<DoctorProfileScreen> {
                               ),
                             ),
                             Text(
-                              " Years Experience",
+                              " anos de experiência",
                               maxLines: 2,
                               style: TextStyle(
                                 color: TColor.secondaryText,
@@ -352,7 +352,7 @@ class _DoctorProfileScreenState extends State<DoctorProfileScreen> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         const Text(
-                          "Experience",
+                          "Experiência",
                           style: TextStyle(
                             color: Colors.black,
                             fontSize: 14,
@@ -377,7 +377,7 @@ class _DoctorProfileScreenState extends State<DoctorProfileScreen> {
                                 ),
                                 Expanded(
                                   child: Text(
-                                    "O Dr. Doom une conhecimentos mágicos e tecnológicos para oferecer o melhor tratamento... para ele.",
+                                    "O Dr. Doom une conhecimentos médicos e tecnológicos para lhe oferecer o melhor tratamento.",
                                     style: TextStyle(
                                       color: TColor.unselect,
                                       fontSize: 12,
@@ -430,7 +430,7 @@ class _DoctorProfileScreenState extends State<DoctorProfileScreen> {
                             children: [
                               const Expanded(
                                 child: Text(
-                                  "Give Feedback",
+                                  "Deixe um feedback",
                                   textAlign: TextAlign.center,
                                   style: TextStyle(
                                     color: Colors.black,
@@ -480,7 +480,7 @@ class _DoctorProfileScreenState extends State<DoctorProfileScreen> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         const Text(
-                          "Address",
+                          "Endereço",
                           style: TextStyle(
                             color: Colors.black,
                             fontSize: 14,
@@ -490,7 +490,7 @@ class _DoctorProfileScreenState extends State<DoctorProfileScreen> {
                         Padding(
                           padding: const EdgeInsets.symmetric(vertical: 8),
                           child: Text(
-                            "Plot No. 123, Behind Somalwada Highschool,Shankar Nagar,Nagpur",
+                            "Av. Agamenon Magalhães, 73 - Maurício de Nassau",
                             style: TextStyle(
                               color: TColor.unselect,
                               fontSize: 12,

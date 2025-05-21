@@ -149,7 +149,7 @@ class _MobileScreenState extends State<MobileScreen> {
                     ),
                     alignment: Alignment.center,
                     child: const Text(
-                      "Continue",
+                      "Continuar",
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 14,
