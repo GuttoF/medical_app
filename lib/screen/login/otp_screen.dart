@@ -32,7 +32,7 @@ class _OTPScreenState extends State<OTPScreen> {
                 const SizedBox(height: 60),
                 
                 Text(
-                  "Enter Verification code",
+                  "Insira o código de verificação",
                   style: TextStyle(
                     color: TColor.primary,
                     fontSize: 20,
